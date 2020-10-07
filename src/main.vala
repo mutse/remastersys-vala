@@ -8,6 +8,11 @@ public void on_close_clicked(Button source) {
     Gtk.main_quit();
 }
 
+public void on_button3_clicked(Button source) {
+    var about_dlg = new AboutDlg(source);
+    about_dlg.show();
+}
+
 public static int main(string[] args) {
     Gtk.init(ref args);
 
