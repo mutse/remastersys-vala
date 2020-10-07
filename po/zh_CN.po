@@ -1,0 +1,126 @@
+# Chinese translations for remastersys package.
+# Copyright (C) 2020 THE remastersys'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the remastersys package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: remastersys\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-07 18:03+0800\n"
+"PO-Revision-Date: 2020-10-07 18:03+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/remastersys.glade:9
+msgid "Remastersys"
+msgstr ""
+
+#: data/remastersys.glade:47
+msgid "Backup"
+msgstr ""
+
+#: data/remastersys.glade:63
+msgid "Dist"
+msgstr ""
+
+#: data/remastersys.glade:80
+msgid "Distcdfs"
+msgstr ""
+
+#: data/remastersys.glade:97
+msgid "Distiso"
+msgstr ""
+
+#: data/remastersys.glade:116
+msgid "Backup complete system including user data"
+msgstr ""
+
+#: data/remastersys.glade:131
+msgid ""
+"Make a Distributable copy to share with friends - both cdfs and iso will be "
+"created"
+msgstr ""
+
+#: data/remastersys.glade:148
+msgid ""
+"Make distributable iso file only - cd filesystem must have been completed "
+"already"
+msgstr ""
+
+#: data/remastersys.glade:164
+msgid ""
+"Make a Distributable copy filesystem only - good if you want to add files to "
+"the cd"
+msgstr ""
+
+#: data/remastersys.glade:190 data/remastersys.glade:221
+#: data/remastersys.glade:237 data/remastersys.glade:253
+msgid "Select"
+msgstr ""
+
+#: data/remastersys.glade:208
+msgid "Boot menu picture for the live cd (640x480 PNG)"
+msgstr ""
+
+#: data/remastersys.glade:275
+msgid "Boot menu picture for the installed environment"
+msgstr ""
+
+#: data/remastersys.glade:288
+msgid "Updating GRUB, please wait..."
+msgstr ""
+
+#: data/remastersys.glade:312
+msgid "User, whose current settings will be used as default"
+msgstr ""
+
+#: data/remastersys.glade:354
+msgid "Plymouth theme"
+msgstr ""
+
+#: data/remastersys.glade:389
+msgid "Username"
+msgstr ""
+
+#: data/remastersys.glade:401
+msgid "CD Label"
+msgstr ""
+
+#: data/remastersys.glade:415
+msgid "Filename"
+msgstr ""
+
+#: data/remastersys.glade:429
+msgid "Working directory"
+msgstr ""
+
+#: data/remastersys.glade:443
+msgid "Files to exclude"
+msgstr ""
+
+#: data/remastersys.glade:457
+msgid "URL for USB Creator"
+msgstr ""
+
+#: data/remastersys.glade:550
+msgid ""
+"<span color=\"red\">Working directory must be on a drive formatted with a "
+"linux filesystem. </span>"
+msgstr ""
+
+#: data/remastersys.glade:608
+msgid "Squashfs options"
+msgstr ""
+
+#: data/remastersys.glade:636
+msgid "Show install icon on Backup mode desktop"
+msgstr ""
+
+#: data/remastersys.glade:699
+msgid "About"
+msgstr ""
