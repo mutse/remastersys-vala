@@ -546,14 +546,13 @@
                   <object class="GtkLabel" id="label13">
                     <property name="visible">True</property>
                     <property name="can_focus">False</property>
-                    <property name="vexpand">False</property>
-                    <property name="label" translatable="yes">&lt;span color="red"&gt;Working directory must be on a drive formatted with a linux filesystem. &lt;/span&gt;</property>
+                    <property name="label" translatable="yes">&lt;span color="red"&gt;Working directory must be on a drive formatted with a linux filesystem.&lt;/span&gt;</property>
                     <property name="use_markup">True</property>
                     <property name="wrap">True</property>
-                    <property name="max_width_chars">60</property>
-                    <property name="xalign">1</property>
                   </object>
                   <packing>
+                    <property name="expand">False</property>
+                    <property name="fill">True</property>
                     <property name="right_attach">2</property>
                     <property name="top_attach">4</property>
                     <property name="bottom_attach">5</property>

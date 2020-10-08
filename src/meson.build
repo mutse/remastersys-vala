@@ -1,6 +1,8 @@
 remastersys_files = files(
     'main.vala',
     'about_dialog.vala',
+    'user_setting.vala',
+    'plymouth.vala',
 )
 
 remastersys_deps = [
